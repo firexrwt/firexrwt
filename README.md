@@ -9,7 +9,7 @@
 I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹, driven by a passion for building practical software solutions and exploring the potential of AI and automation.
 
 * 🎓 My journey started with **Python** fundamentals at **Yandex Lyceum** and led to practical **Android** app development (using **Java**) at the **Samsung IT School**.
-* 💡 Currently expanding my skillset in **web technologies** (as demonstrated by [my portfolio site](https://github.com/firexrwt/firexrwt.github.io)) and diving deeper into the **AI/ML** landscape.
+* 💡 Currently expanding my skillset in **web technologies** (as demonstrated by [my portfolio site](https://firexrwt.github.io)) and diving deeper into the **AI/ML** landscape.
 * 🚀 I enjoy tackling challenges and turning ideas into tangible applications, whether it's a desktop tool, a mobile app, or a helpful bot.
 
 ---
