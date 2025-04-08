@@ -1,9 +1,5 @@
 # Hi there, I'm Stepan! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=firexrwt)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 👨‍💻 About Me
 
 I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹, driven by a passion for building practical software solutions and exploring the potential of AI and automation.
