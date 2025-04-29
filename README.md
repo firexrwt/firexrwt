@@ -28,6 +28,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/-Llama.cpp-grey?style=flat" alt="Llama.cpp"/>
+<img src="https://img.shields.io/badge/-Llama.cpp-grey?style=flat" alt="Ollama"/>
 <img src="https://img.shields.io/badge/-FAISS-blue?style=flat" alt="FAISS"/>
 
 **Web Dev:** <br>
