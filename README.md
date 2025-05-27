@@ -23,6 +23,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML"/>
 
 **AI / ML:** <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -37,6 +38,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" alt="Github Pages"/>
 
 **Mobile & Discord:** <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"/>
