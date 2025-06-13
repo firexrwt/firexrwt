@@ -56,6 +56,8 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 
 * 🤖 **NeuraBox** ([GitHub](https://github.com/firexrwt/NeuraBox))
     * A desktop AI assistant for running various local neural networks with a React/Tailwind frontend and Python backend.
+* 👾 **George Droid** ([GitHub](https://github.com/firexrwt/george-droid))
+    * An AI companion for streamers written in Python that listens to speech, responds wittily, and interacts with the Twitch chat using Together AI for LLM, Faster-Whisper for speech recognition, and Piper for voice synthesis.
 * 💬 **FIREX BOT** ([GitHub](https://github.com/firexrwt/FIREX-BOT))
     * An open-source, multifunctional Discord bot featuring moderation, levels, Twitch notifications, and mini-games (Python/Nextcord).
 * 📱 **My Time** ([GitHub](https://github.com/firexrwt/MyTime))
