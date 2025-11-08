@@ -21,6 +21,9 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -88,6 +91,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 
 * 📚 Preparing for **Data Science** program entrance exams at University of Vienna
 * 🤖 Advancing **AI/ML** expertise with focus on local model deployment and RAG systems
+* 💻 Expanding programming horizons by learning **C++**, **Rust**, and **Go**
 * 🎵 Developing **Streamify** - next-generation streaming tools for content creators
 * 🔧 Building modern applications with **React**, **FastAPI**, and **Kotlin**
 
