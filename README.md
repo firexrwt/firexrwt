@@ -78,7 +78,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 
 ## 🎯 Current Focus
 
-* 📚 Preparing for **Data Science** program entrance exams at University of Vienna
+* 📚 Studying on **Mathematical Foundations of Data Science** program at University of Vienna
 * 🤖 Advancing **AI/ML** expertise with focus on local model deployment and RAG systems
 * 💻 Expanding programming horizons by learning **C++**, **Rust**, and **Go**
 * 🎵 Developing **Streamify** - next-generation streaming tools for content creators
