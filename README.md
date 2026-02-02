@@ -76,14 +76,6 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=firexrwt&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&line_height=21&card_width=490"/>&nbsp;&nbsp;&nbsp;&nbsp; <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firexrwt&layout=compact&langs_count=8&theme=transparent&hide_border=true&card_width=320"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 * 📚 Preparing for **Data Science** program entrance exams at University of Vienna
