@@ -1,17 +1,17 @@
 # Hi there, I'm Stepan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹, driven by a passion for building practical software solutions and exploring the cutting edge of AI and automation.
+I'm a technology enthusiast and developer based in **Vienna, Austria**, driven by a passion for building practical software solutions and exploring the cutting edge of AI and automation.
 
-* 🎓 My journey started with **Python** fundamentals at **Yandex Lyceum** and expanded through practical **Android** app development at the **Samsung IT School**.
-* 🤖 Currently focusing on **AI/ML technologies** with hands-on experience in local model deployment, RAG systems, and cloud-based AI architectures.
-* 🌐 Actively developing in **modern web technologies** (as demonstrated by [my portfolio site](https://firexrwt.github.io)) and building full-stack applications.
-* 🚀 I enjoy transforming ideas into tangible applications, from AI-powered streaming companions to music widgets and mobile productivity tools.
+* My journey started with **Python** fundamentals at **Yandex Lyceum** and expanded through practical **Android** app development at the **Samsung IT School**.
+* Currently focusing on **AI/ML technologies** with hands-on experience in local model deployment, RAG systems, and cloud-based AI architectures.
+* Actively developing in **modern web technologies** (as demonstrated by [my portfolio site](https://firexrwt.github.io)) and building full-stack applications.
+* I enjoy transforming ideas into tangible applications, from AI-powered streaming companions to music widgets and mobile productivity tools.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Programming Languages:** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -54,39 +54,39 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
-* 🤖 **George-Droid** ([GitHub](https://github.com/firexrwt/george-droid)) ![Status](https://img.shields.io/badge/Status-Open%20Release-green)
+* **George-Droid** ([GitHub](https://github.com/firexrwt/george-droid)) ![Status](https://img.shields.io/badge/Status-Open%20Release-green)
     * AI streaming companion inspired by Neuro-Sama. Built with cloud architecture using Together AI for LLM and STT, Piper TTS, local RAG memory system, and Twitch chat integration.
 
-* 🎵 **Streamify** ([GitHub](https://github.com/firexrwt/Streamify)) ![Status](https://img.shields.io/badge/Status-Beta-orange)
+* **Streamify** ([GitHub](https://github.com/firexrwt/Streamify)) ![Status](https://img.shields.io/badge/Status-Beta-orange)
     * Interactive music widget for streamers with Spotify integration. Features adaptive design, dynamic backgrounds, progress bars, QR codes, and planned Twitch Channel Points integration. Built with React 19 and TypeScript.
 
-* 🧠 **NeuraBox** ([GitHub](https://github.com/firexrwt/NeuraBox)) ![Status](https://img.shields.io/badge/Status-Development-blue)
+* **NeuraBox** ([GitHub](https://github.com/firexrwt/NeuraBox)) ![Status](https://img.shields.io/badge/Status-Development-blue)
     * Desktop AI assistant for running local neural networks with extensive functionality. React/Tailwind frontend with Python backend supporting multiple AI models.
 
-* 💬 **FIREX BOT** ([GitHub](https://github.com/firexrwt/FIREX-BOT)) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+* **FIREX BOT** ([GitHub](https://github.com/firexrwt/FIREX-BOT)) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
     * Open-source multifunctional Discord bot with moderation, levels, Twitch notifications, and mini-games. Built with Python/Nextcord.
 
-* 📱 **My Time** ([GitHub](https://github.com/firexrwt/MyTime)) ![Status](https://img.shields.io/badge/Status-V2%20Rewrite-yellow)
+* **My Time** ([GitHub](https://github.com/firexrwt/MyTime)) ![Status](https://img.shields.io/badge/Status-V2%20Rewrite-yellow)
     * Android time management app for freelancers. Currently being rewritten from Java to Kotlin with modern Material Design. Samsung IT School graduation project.
 
-* 🌐 **Portfolio Website** ([GitHub](https://github.com/firexrwt/firexrwt.github.io) | [Live Site](https://firexrwt.github.io))
+* **Portfolio Website** ([GitHub](https://github.com/firexrwt/firexrwt.github.io) | [Live Site](https://firexrwt.github.io))
     * Multilingual portfolio site (RU/EN/DE) with modern cyber design, built using vanilla HTML/CSS/JavaScript and hosted on GitHub Pages.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-* 📚 Studying on **Mathematical Foundations of Data Science** program at University of Vienna
-* 🤖 Advancing **AI/ML** expertise with focus on local model deployment and RAG systems
-* 💻 Expanding programming horizons by learning **C++**, **Rust**, and **Go**
-* 🎵 Developing **Streamify** - next-generation streaming tools for content creators
-* 🔧 Building modern applications with **React**, **FastAPI**, and **Kotlin**
+* Studying on **Mathematical Foundations of Data Science** program at University of Vienna
+* Advancing **AI/ML** expertise with focus on local model deployment and RAG systems
+* Expanding programming horizons by learning **C++**, **Rust**, and **Go**
+* Developing **Streamify** - next-generation streaming tools for content creators
+* Building modern applications with **React**, **FastAPI**, and **Kotlin**
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 * Connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepaneremeev/)
 * Send me an Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firexfirexov@gmail.com)
@@ -94,4 +94,4 @@ I'm a technology enthusiast and developer based in **Vienna, Austria** 🇦🇹,
 
 ---
 
-*Transforming ideas into reality through code, one project at a time* ✨
+*Transforming ideas into reality through code, one project at a time*
