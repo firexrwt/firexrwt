@@ -1,4 +1,4 @@
-# Hi there, I'm Stepan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there, I'm Stepan!
 
 ## About Me
 
@@ -89,7 +89,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria**, driven b
 ## Get In Touch
 
 * Connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepaneremeev/)
-* Send me an Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firexfirexov@gmail.com)
+* Send me an Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business@firexrwt.com)
 * Check out my Portfolio: [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://firexrwt.github.io)
 
 ---
