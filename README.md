@@ -51,6 +51,7 @@ I'm a technology enthusiast and developer based in **Vienna, Austria**, driven b
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Nextcord-5865F2?style=flat&logo=discord&logoColor=white" alt="Nextcord"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity"/>
 
 ---
 
@@ -70,6 +71,12 @@ I'm a technology enthusiast and developer based in **Vienna, Austria**, driven b
 
 * **My Time** ([GitHub](https://github.com/firexrwt/MyTime)) ![Status](https://img.shields.io/badge/Status-V2%20Rewrite-yellow)
     * Android time management app for freelancers. Currently being rewritten from Java to Kotlin with modern Material Design. Samsung IT School graduation project.
+
+* **gitplex** ([GitHub](https://github.com/firexrwt/gitplex)) ![Status](https://img.shields.io/badge/Status-Open%20Source-green)
+    * Terminal-based Git client with a rich TUI built in Python and Textual. Keyboard-driven interface for common Git operations without leaving the terminal.
+
+* **macro-editor** ([GitHub](https://github.com/firexrwt/macro-code-editor)) ![Status](https://img.shields.io/badge/Status-Development-blue)
+    * Lightweight terminal code editor written in Rust. Designed for speed and minimalism with syntax highlighting and keyboard-centric navigation.
 
 * **Portfolio Website** ([GitHub](https://github.com/firexrwt/firexrwt.github.io) | [Live Site](https://firexrwt.github.io))
     * Multilingual portfolio site (RU/EN/DE) with modern cyber design, built using vanilla HTML/CSS/JavaScript and hosted on GitHub Pages.
