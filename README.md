@@ -96,7 +96,6 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"/>
 <img src="https://img.shields.io/badge/Hyprland-00B4D8?style=flat-square&logoColor=white" alt="Hyprland"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity"/>
 <img src="https://img.shields.io/badge/Nextcord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Nextcord"/>
@@ -105,9 +104,11 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 **Editor / Daily**
 
 <p>
+<img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zed-industries&logoColor=white" alt="Zed"/>
 <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"/>
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"/>
 </p>
 
@@ -166,8 +167,8 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 
 <a href="https://github.com/firexrwt/george-droid">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=george-droid&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=george-droid&hide_border=true" alt="george-droid"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=George-Droid&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=George-Droid&hide_border=true" alt="george-droid"/>
   </picture>
 </a>
 <a href="https://github.com/firexrwt/Streamify">
@@ -194,10 +195,10 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=gitplex&hide_border=true" alt="gitplex"/>
   </picture>
 </a>
-<a href="https://github.com/firexrwt/TERMINAL-RENDERER">
+<a href="https://github.com/firexrwt/FIREX-BOT">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=TERMINAL-RENDERER&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=TERMINAL-RENDERER&hide_border=true" alt="TERMINAL-RENDERER"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=FIREX-BOT&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=FIREX-BOT&hide_border=true" alt="FIREX-BOT"/>
   </picture>
 </a>
 
@@ -210,14 +211,14 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 
 | Project | Stack | Status | Description |
 |---|---|---|---|
-| **[george-droid](https://github.com/firexrwt/george-droid)** | Python · Together AI · Piper · RAG | ![](https://img.shields.io/badge/Open%20Release-2EA043?style=flat-square) | AI streaming companion (Neuro-Sama-inspired). Cloud LLM + STT, local RAG memory, Twitch chat. |
-| **[Streamify](https://github.com/firexrwt/Streamify)** | React 19 · TypeScript · Spotify API | ![](https://img.shields.io/badge/Beta-F97316?style=flat-square) | Interactive music widget for streamers. Adaptive design, dynamic BG, progress, QR, Channel Points (planned). |
+| **[George-Droid](https://github.com/firexrwt/George-Droid)** | Python · Together AI · Piper · RAG | ![](https://img.shields.io/badge/Open%20Release-2EA043?style=flat-square) | AI streaming companion (Neuro-Sama-inspired). Cloud LLM + STT, local RAG memory, Twitch chat. |
+| **[Streamify](https://github.com/firexrwt/Streamify)** | React 19 · TypeScript · Spotify API | ![](https://img.shields.io/badge/Beta-F97316?style=flat-square) | Spotify OBS widget — adaptive design, dynamic BG, progress, QR, Channel Points (planned). |
 | **[NeuraBox](https://github.com/firexrwt/NeuraBox)** | React · Tailwind · Python | ![](https://img.shields.io/badge/Development-1F6FEB?style=flat-square) | Desktop assistant for local neural networks. Multi-model support. |
 | **[FIREX BOT](https://github.com/firexrwt/FIREX-BOT)** | Python · Nextcord | ![](https://img.shields.io/badge/Live-2EA043?style=flat-square) | Open-source Discord bot — moderation, levels, Twitch notifications, mini-games. |
 | **[My Time](https://github.com/firexrwt/MyTime)** | Kotlin · Material Design | ![](https://img.shields.io/badge/V2%20Rewrite-D29922?style=flat-square) | Android time management for freelancers. Java → Kotlin rewrite. Samsung IT School graduation project. |
 | **[gitplex](https://github.com/firexrwt/gitplex)** | Python · Textual · TUI | ![](https://img.shields.io/badge/Open%20Source-2EA043?style=flat-square) | Terminal Git client. Keyboard-driven, rich TUI, no leaving terminal. |
 | **[macro-editor](https://github.com/firexrwt/macro-code-editor)** | Rust · syntect · LSP | ![](https://img.shields.io/badge/Development-1F6FEB?style=flat-square) | Fast terminal code editor. File tree, syntax highlight, LSP autocomplete, tabs, mouse, TOML config. |
-| **[TERMINAL-RENDERER](https://github.com/firexrwt/TERMINAL-RENDERER)** | Python · Faster-Whisper · ffmpeg | ![](https://img.shields.io/badge/Experimental-8957E5?style=flat-square) | Pixel-by-pixel video renderer with terminal aesthetic. Word-level audio sync via Whisper. Linux only. |
+| **[TERMINAL-RENDERER](https://github.com/firexrwt/TERMINAL-RENDERER)** | Python · Faster-Whisper · ffmpeg | ![](https://img.shields.io/badge/Archived-6E7681?style=flat-square) | Pixel-by-pixel video renderer with terminal aesthetic. Word-level audio sync via Whisper. Linux only. |
 | **[Portfolio](https://github.com/firexrwt/firexrwt.github.io)** | HTML · CSS · JS | ![](https://img.shields.io/badge/Live-2EA043?style=flat-square) | Multilingual (RU/EN/DE), modern cyber design, GitHub Pages. → [firexrwt.github.io](https://firexrwt.github.io) |
 
 </details>
