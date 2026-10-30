@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://firexrwt.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Stepan+Eremeev;ML+Engineer+%2F+Full-Stack+Developer;Vienna%2C+Austria&font=Fira%20Code&center=true&width=640&height=58&color=58A6FF&vCenter=true&size=26&pause=900" alt="Stepan Eremeev — ML Engineer / Full-Stack Developer — Vienna, Austria"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Stepan+Eremeev;ML+Engineer+%2F+Full-Stack+Developer&font=Fira%20Code&center=true&width=640&height=58&color=58A6FF&vCenter=true&size=26&pause=900" alt="Stepan Eremeev - ML Engineer / Full-Stack Developer"/>
 </a>
 
 <br/>
@@ -22,11 +22,10 @@
 
 ## About
 
-> Technology builder based in Vienna. Transforming research-grade ideas into shipping software — AI streaming companions, RAG systems, music tooling, mobile productivity, terminal UX.
+> Technology builder. Transforming research-grade ideas into shipping software: AI streaming companions, RAG systems, music tooling, mobile productivity, terminal UX.
 
 ```text
   ┌─ Origin ──── Python @ Yandex Lyceum, Android @ Samsung IT School
-  ├─ Now ─────── MSc Mathematical Foundations of Data Science, U Vienna
   ├─ Focus ───── Local LLMs · RAG · model deployment · production UX
   └─ Stack ───── Python · Kotlin · TypeScript · Rust · Go · C++
 ```
@@ -123,38 +122,9 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=firexrwt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=firexrwt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&title_color=0969DA&icon_color=0969DA&text_color=24292F&ring_color=0969DA"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=firexrwt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=firexrwt&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=firexrwt&hide_border=true&stroke=0969DA&ring=0969DA&fire=F97316&currStreakLabel=0969DA"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=firexrwt&hide_border=true" alt="GitHub streak" height="170"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=firexrwt&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=firexrwt&layout=compact&hide_border=true&langs_count=10&theme=default&title_color=0969DA&text_color=24292F"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firexrwt&layout=compact&hide_border=true&langs_count=10" alt="Top languages" height="170"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=firexrwt&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F97316&area=true&area_color=58A6FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=firexrwt&theme=minimal&hide_border=true&color=0969DA&line=0969DA&point=F97316&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firexrwt&theme=github-compact&hide_border=true" alt="Activity graph"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=firexrwt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=firexrwt&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=firexrwt&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
 </picture>
 
 </div>
@@ -163,65 +133,32 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/firexrwt/george-droid">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=George-Droid&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=George-Droid&hide_border=true" alt="george-droid"/>
-  </picture>
-</a>
-<a href="https://github.com/firexrwt/Streamify">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=Streamify&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=Streamify&hide_border=true" alt="Streamify"/>
-  </picture>
-</a>
-<a href="https://github.com/firexrwt/NeuraBox">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=NeuraBox&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=NeuraBox&hide_border=true" alt="NeuraBox"/>
-  </picture>
-</a>
-<a href="https://github.com/firexrwt/macro-code-editor">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=macro-code-editor&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=macro-code-editor&hide_border=true" alt="macro-code-editor"/>
-  </picture>
-</a>
-<a href="https://github.com/firexrwt/gitplex">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=gitplex&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=gitplex&hide_border=true" alt="gitplex"/>
-  </picture>
-</a>
-<a href="https://github.com/firexrwt/FIREX-BOT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=FIREX-BOT&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firexrwt&repo=FIREX-BOT&hide_border=true" alt="FIREX-BOT"/>
-  </picture>
-</a>
-
-</div>
-
-<details>
-<summary><b>Full project index</b> — click to expand</summary>
-
-<br/>
-
 | Project | Stack | Status | Description |
 |---|---|---|---|
-| **[George-Droid](https://github.com/firexrwt/George-Droid)** | Python · Together AI · Piper · RAG | ![](https://img.shields.io/badge/Open%20Release-2EA043?style=flat-square) | AI streaming companion (Neuro-Sama-inspired). Cloud LLM + STT, local RAG memory, Twitch chat. |
-| **[Streamify](https://github.com/firexrwt/Streamify)** | React 19 · TypeScript · Spotify API | ![](https://img.shields.io/badge/Beta-F97316?style=flat-square) | Spotify OBS widget — adaptive design, dynamic BG, progress, QR, Channel Points (planned). |
+| **[Keytide](https://github.com/firexrwt/keytide)** | Swift · macOS · Accessibility API | ![](https://img.shields.io/badge/Released-2EA043?style=flat-square) | Local RU/EN keyboard layout switcher and typo corrector for macOS. Type `ghbdtn`, get `привет` after the space; one Option press undoes it. Bundled 1.5M word-form dictionary, no telemetry. → [Releases](https://github.com/firexrwt/keytide/releases) |
+| **[George-Droid](https://github.com/firexrwt/George-Droid)** | Python · Together AI · Piper · RAG | ![](https://img.shields.io/badge/Open%20Release-2EA043?style=flat-square) | AI streaming companion (Neuro-Sama-inspired). Cloud LLM + STT, local RAG memory, Twitch chat. → [project page](https://firexrwt.com/en/george) |
+| **[malutka-stories](https://github.com/firexrwt/malutka-stories)** | JavaScript · Node.js · OpenAI | ![](https://img.shields.io/badge/Playable%20Demo-1F6FEB?style=flat-square) | Russian-language visual story chat in the browser. You write what happens, the characters answer, the model moves them and picks portraits and backgrounds. Zero npm dependencies, local server, runs on a ChatGPT subscription. |
+| **[Streamify](https://github.com/firexrwt/Streamify)** | React 19 · TypeScript · Spotify API | ![](https://img.shields.io/badge/Beta-F97316?style=flat-square) | Spotify OBS widget - adaptive design, dynamic BG, progress, QR, Channel Points (planned). Hosted version → [streamify.firexrwt.com](https://streamify.firexrwt.com) |
 | **[NeuraBox](https://github.com/firexrwt/NeuraBox)** | React · Tailwind · Python | ![](https://img.shields.io/badge/Development-1F6FEB?style=flat-square) | Desktop assistant for local neural networks. Multi-model support. |
 | **[FIREX BOT](https://github.com/firexrwt/FIREX-BOT)** | Python · Nextcord | ![](https://img.shields.io/badge/Live-2EA043?style=flat-square) | Open-source Discord bot — moderation, levels, Twitch notifications, mini-games. |
-| **[My Time](https://github.com/firexrwt/MyTime)** | Kotlin · Material Design | ![](https://img.shields.io/badge/V2%20Rewrite-D29922?style=flat-square) | Android time management for freelancers. Java → Kotlin rewrite. Samsung IT School graduation project. |
+| **[My Time](https://github.com/firexrwt/MyTime)** | Kotlin · Material Design | ![](https://img.shields.io/badge/V2%20Rewrite-D29922?style=flat-square) | Android time management for freelancers. Java → Kotlin rewrite of [My-Time](https://github.com/firexrwt/My-Time). Samsung IT School graduation project. |
 | **[gitplex](https://github.com/firexrwt/gitplex)** | Python · Textual · TUI | ![](https://img.shields.io/badge/Open%20Source-2EA043?style=flat-square) | Terminal Git client. Keyboard-driven, rich TUI, no leaving terminal. |
 | **[macro-editor](https://github.com/firexrwt/macro-code-editor)** | Rust · syntect · LSP | ![](https://img.shields.io/badge/Development-1F6FEB?style=flat-square) | Fast terminal code editor. File tree, syntax highlight, LSP autocomplete, tabs, mouse, TOML config. |
 | **[TERMINAL-RENDERER](https://github.com/firexrwt/TERMINAL-RENDERER)** | Python · Faster-Whisper · ffmpeg | ![](https://img.shields.io/badge/Archived-6E7681?style=flat-square) | Pixel-by-pixel video renderer with terminal aesthetic. Word-level audio sync via Whisper. Linux only. |
+| **[ASTRONEER Version Swap](https://github.com/firexrwt/ASTRONEER-VERSION-SWAP-SCRIPT)** | Python | ![](https://img.shields.io/badge/Released-2EA043?style=flat-square) | Switches the Steam ASTRONEER install between the current and a locally stored game version, together with its save data. Windows exe in Releases. |
 | **[Portfolio](https://github.com/firexrwt/firexrwt.github.io)** | HTML · CSS · JS | ![](https://img.shields.io/badge/Live-2EA043?style=flat-square) | Multilingual (RU/EN/DE), modern cyber design, GitHub Pages. → [firexrwt.github.io](https://firexrwt.github.io) |
 
-</details>
+---
+
+## Live on the Web
+
+Free hosted stream tools: open in a browser, set up, paste the URL into an OBS Browser Source. All of them are linked from [firexrwt.com](https://firexrwt.com).
+
+| Tool | What it does |
+|---|---|
+| **[Streamify](https://streamify.firexrwt.com)** | Spotify now-playing overlay. One URL for OBS, colours adapt to the album art, full card or compact pill. |
+| **[Backdrops](https://backdrops.firexrwt.com)** | Procedurally animated stream backgrounds: 25 styles in 6 categories, tune the parameters and copy the URL. No sign-up. |
+| **[TwitchChat](https://twitchchat.firexrwt.com)** | Twitch chat overlay with 7TV emotes, badges, avatars and optional text-to-speech. |
 
 ---
 
@@ -230,16 +167,17 @@ $$\hat{\theta} = \arg\min_{\theta \in \Theta}\; \frac{1}{n}\sum_{i=1}^{n} \mathc
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#58A6FF','lineColor':'#58A6FF','secondaryColor':'#161B22','tertiaryColor':'#21262D'}}}%%
 graph LR
-    A["MSc · Math Foundations<br/>of Data Science<br/>(U Vienna)"] --> B["AI / ML Engineering"]
-    A --> C["Statistical Theory<br/>& Optimization"]
+    A["firexrwt"] --> B["AI / ML Engineering"]
+    A --> C["Stream Tools"]
+    A --> H["Desktop &<br/>Terminal Apps"]
     B --> D["Local LLM<br/>deployment"]
     B --> E["RAG systems<br/>& embeddings"]
     B --> F["Production<br/>inference UX"]
-    D --> G["Streamify<br/>NeuraBox<br/>george-droid"]
+    D --> G["George-Droid<br/>NeuraBox<br/>malutka-stories"]
     E --> G
     F --> G
-    C --> H["Systems<br/>Programming"]
-    H --> I["Rust · Go · C++<br/>macro-editor"]
+    C --> J["Streamify<br/>Backdrops<br/>TwitchChat"]
+    H --> I["Keytide<br/>macro-editor<br/>gitplex"]
 
     classDef root fill:#0D1117,stroke:#F97316,stroke-width:2px,color:#F97316;
     classDef branch fill:#161B22,stroke:#58A6FF,stroke-width:1px,color:#58A6FF;
@@ -247,7 +185,7 @@ graph LR
     class A root;
     class B,C branch;
     class D,E,F,H branch;
-    class G,I leaf;
+    class G,I,J leaf;
 ```
 
 ---
